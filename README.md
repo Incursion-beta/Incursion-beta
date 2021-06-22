@@ -127,7 +127,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Incursion-beta&theme=juicyfresh)](https://github.com/Incursion-beta/github-profile-trophy)
 
+<h4>📀 SPOTIFY TRACK I'M LISTENING NOW:></h4>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lfmp68xfrduww5hagd5vyyivh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=lfmp68xfrduww5hagd5vyyivh&redirect=true)
   
 ## Contact me
 <a href="mailto:niteshvamshi123@gmail.com"><img src="https://img.shields.io/badge/Gmail-855858?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://www.instagram.com/nitesh_vamshi/">
@@ -138,9 +140,6 @@
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, i'd be happy to connect :)</em></br>
 
 
-<h4>📀 SPOTIFY TRACK I'M LISTENING NOW:></h4>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lfmp68xfrduww5hagd5vyyivh&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=lfmp68xfrduww5hagd5vyyivh&redirect=true)
 
 
 

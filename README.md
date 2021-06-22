@@ -1,8 +1,18 @@
-# Hi 👋, [I'm Nitesh Vamshi](https://github.com/Incursion-beta)
+
+<img align="left" width="150" height="170" alt="B Nitesh vamshi" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
+
+# I'm [B Nitesh Vamshi](https://github.com/Incursion-beta)
+
   
   I'm a final year student pursuing Bachelors's in Computer Science. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love   to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development   🕸️, Data Science 🤓 and working on Data structures and algorithms.
 
+
+
 <h2 align="left" id="#Incursion_beta">Talking about personal stuff:</h2>
+
+<a href="#Incursion-beta-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=Incursion-beta&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Incursion-beta" align="right"/>
+</a>
 
 - 🌱 I’m currently learning - ReactJs and NodeJs
 - 👨‍💻 All of my projects are available on [Github](https://github.com/Incursion-beta).
@@ -11,6 +21,7 @@
 - 📫 How to reach me: niteshvamshi123@gmail.com
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1CU7a2wpvvXMsClMwnf4fH--aMUEZWbgu/view?usp=sharing).
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
+
 
 
 
@@ -109,9 +120,11 @@
   </tr>
 </table>
 
-<a href="#macropower-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=macropower&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Incursion-beta&layout=compact&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Incursion-beta&theme=juicyfresh)](https://github.com/Incursion-beta/github-profile-trophy)
+
+
 
 
 

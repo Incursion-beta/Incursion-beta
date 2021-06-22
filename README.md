@@ -12,8 +12,87 @@
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1CU7a2wpvvXMsClMwnf4fH--aMUEZWbgu/view?usp=sharing).
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
 
-# Languages and Tools:
-![Python](https://user-images.githubusercontent.com/43684497/122919439-da31c680-d37d-11eb-8934-68037768850b.png) ![C++](https://user-images.githubusercontent.com/43684497/122919602-0baa9200-d37e-11eb-8806-e1f906df7566.png) ![JavaScript](https://user-images.githubusercontent.com/43684497/122919659-1b29db00-d37e-11eb-8ac8-bd98f5bcb5a3.png) ![Numpy](https://user-images.githubusercontent.com/43684497/122919755-3bf23080-d37e-11eb-98a2-89bd54b2f025.png) ![Pandas](https://user-images.githubusercontent.com/43684497/122919916-6ba13880-d37e-11eb-9012-5d2c8fa20c2c.png) ![MySql](https://user-images.githubusercontent.com/43684497/122919980-7d82db80-d37e-11eb-974a-73efa89d910d.png)
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+      </a>
+      <br>RHEL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+  
+  </tr>
+</table>
 
 
 

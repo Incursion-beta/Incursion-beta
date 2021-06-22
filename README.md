@@ -138,6 +138,11 @@
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, i'd be happy to connect :)</em></br>
 
 
+<h4>📀 SPOTIFY TRACK I'M LISTENING NOW:></h4>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lfmp68xfrduww5hagd5vyyivh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 
 

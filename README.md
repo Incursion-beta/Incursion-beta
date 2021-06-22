@@ -1,8 +1,8 @@
 # Hi 👋, [I'm Nitesh Vamshi](https://github.com/Incursion-beta)
   
-  I'm a final year student pursuing Bachelors's in Computer Science. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️, Data Science 🤓 and working on Data structures and algorithms.
+  I'm a final year student pursuing Bachelors's in Computer Science. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love   to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development   🕸️, Data Science 🤓 and working on Data structures and algorithms.
 
-# Talking about personal stuff:
+<h2 align="left" id="#Incursion_beta">Talking about personal stuff:</h2>
 
 - 🌱 I’m currently learning - ReactJs and NodeJs
 - 👨‍💻 All of my projects are available on [Github](https://github.com/Incursion-beta).
@@ -12,87 +12,106 @@
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1CU7a2wpvvXMsClMwnf4fH--aMUEZWbgu/view?usp=sharing).
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
 
+
+
+<h2 align="left" id="#Incursion_beta">Favourite Tech</h2>
+
 > Tools, languages, and other things that I like to work with.
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src= "https://user-images.githubusercontent.com/43684497/122926597-a9ee2600-d385-11eb-8b42-d7f67f103358.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
+    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src= "https://user-images.githubusercontent.com/43684497/122926698-c5593100-d385-11eb-87a6-f3bd597fbba5.png" width="48" height="48" alt="C++" />
       </a>
-      <br>Go
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src= "https://user-images.githubusercontent.com/43684497/122926857-e9b50d80-d385-11eb-8ced-a81b461ae4b7.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src= "https://user-images.githubusercontent.com/43684497/122926921-fafe1a00-d385-11eb-9154-4fe99ad09015.png" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://user-images.githubusercontent.com/43684497/122927003-11a47100-d386-11eb-9253-e564e4ad297a.png" width="48" height="48" alt="Node" />
       </a>
-      <br>Bootstrap
+      <br>Node
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/43684497/122927093-24b74100-d386-11eb-88fe-1c2aaea04c71.png" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src= "https://user-images.githubusercontent.com/43684497/122925739-c0e04880-d384-11eb-9d3d-2eda68e98856.png" width="48" height="48" alt="Pandas"/>
       </a>
-      <br>Sass
-    </td>
+      <br>Pandas
+    </td>  
   </tr>
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://user-images.githubusercontent.com/43684497/122927223-49131d80-d386-11eb-9459-edf3978c722e.png" width="48" height="48" alt="Matplotlib" />
       </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
+      <br>Matplotlib
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="https://user-images.githubusercontent.com/43684497/122927952-000f9900-d387-11eb-9fab-c77bcf4ccd41.png" width="48" height="48" alt="HTML" />
       </a>
-      <br>Debian
+      <br>HTML
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="https://user-images.githubusercontent.com/43684497/122928027-161d5980-d387-11eb-8fa2-3d8c1a89d127.png" width="48" height="48" alt="CSS" />
       </a>
-      <br>RHEL
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="https://user-images.githubusercontent.com/43684497/122925297-54654980-d384-11eb-943a-b387505acd59.png" width="48" height="48" alt="Numpy" />
       </a>
-      <br>Powershell
+      <br>Numpy
     </td>
-    <td align="center"  width="96">
+        <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://user-images.githubusercontent.com/43684497/122928097-2af9ed00-d387-11eb-8f0e-053334c5bb20.png" width="48" height="48" alt="OpenCV" />
       </a>
-      <br>MySQL
+      <br>OpenCV
     </td>
-  
+        <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/43684497/122928173-3b11cc80-d387-11eb-9d37-66d76339ef96.png" width="48" height="48" alt="Keras" />
+      </a>
+      <br>Keras
+    </td>
+        <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/43684497/122928252-4e249c80-d387-11eb-8288-d60b2327cb1b.png" width="48" height="48" alt="Tensorflow" />
+      </a>
+      <br>Tensorflow
+    </td>
   </tr>
 </table>
+
+<a href="#macropower-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=macropower&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
+</a>
 
 
 

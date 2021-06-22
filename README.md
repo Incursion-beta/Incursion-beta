@@ -140,8 +140,7 @@
 
 <h4>📀 SPOTIFY TRACK I'M LISTENING NOW:></h4>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lfmp68xfrduww5hagd5vyyivh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lfmp68xfrduww5hagd5vyyivh&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=lfmp68xfrduww5hagd5vyyivh&redirect=true)
 
 
 

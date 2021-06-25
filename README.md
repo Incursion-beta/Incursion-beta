@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning - ReactJs and NodeJs
 - 👨‍💻 All of my projects are available on [Github](https://github.com/Incursion-beta).
 - 👯 I’m looking to collaborate on - projects related to Web development.
-- 💬 Ask me about - Python, Machine Learning, Deep Learning, JavaScript, SQL, HTML, CSS
+- 💬 Ask me about - Python, Machine Learning, Deep Learning, JavaScript, SQL, HTML, CSS.
 - 📫 How to reach me: niteshvamshi123@gmail.com
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CU7a2wpvvXMsClMwnf4fH--aMUEZWbgu/view?usp=sharing).
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
@@ -137,7 +137,7 @@
 </a><a href="https://www.linkedin.com/in/b-nitesh-vamshi-87723016b/"> <img src="https://img.shields.io/badge/LinkedIn-855858?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://twitter.com/Nitesh83438715"> <img src="https://img.shields.io/badge/Twitter-855858?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 ### <b> Thanks for checking my profile 💑 </b><br>
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, i'd be happy to connect :)</em></br>
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, i'd be happy to connect:)</em></br>
 
 
 

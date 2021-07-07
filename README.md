@@ -136,7 +136,7 @@
 <img src="https://img.shields.io/badge/Instagram-855858?style=for-the-badge&logo=instagram&logoColor=white">
 </a><a href="https://www.linkedin.com/in/b-nitesh-vamshi-87723016b/"> <img src="https://img.shields.io/badge/LinkedIn-855858?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://twitter.com/Nitesh83438715"> <img src="https://img.shields.io/badge/Twitter-855858?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-### <b>  Thanks for checking my profile 💑 </b><br>
+### <b>  Thanks for checking my profile 💑, have a great day. </b><br>
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, i'd be happy to connect:)</em></br>
 
 

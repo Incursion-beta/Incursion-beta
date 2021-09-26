@@ -14,7 +14,7 @@ I'm a final year student pursuing Bachelors's in Computer Science. I'm a passion
   <img src="https://github-readme-stats.vercel.app/api?username=Incursion-beta&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Incursion-beta" align="right"/>
 </a>
 
-- 🌱 I’m currently learning - ReactJs and NodeJs
+- 🌱 I’m currently learning - ReactJs and NodeJs.
 - 👨‍💻 All of my projects are available on [Github](https://github.com/Incursion-beta).
 - 👯 I’m looking to collaborate on - projects related to Web development.
 - 💬 Ask me about - Python, Machine Learning, Deep Learning, JavaScript, SQL, HTML, CSS.

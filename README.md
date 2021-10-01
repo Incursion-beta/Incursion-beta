@@ -20,7 +20,7 @@ I'm a final year student pursuing Bachelors's in Computer Science. I'm a passion
 - 💬 Ask me about - Python, Machine Learning, Deep Learning, JavaScript, SQL, HTML, CSS.
 - 📫 How to reach me: **niteshvamshi123@gmail.com**
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1ENmihlFrqTtGKy6VTzF0otZYpgDcOnfl/view?usp=sharing).
-- 👾 Fun fact: Equal is Not Always Equal in Javascript.
+- 👾 Fun fact : Equal is Not Always Equal in Javascript.
 
 
 

@@ -8,7 +8,7 @@ I'm a final year student pursuing Bachelors's in Computer Science. I'm a passion
 
 
 
-<h2 align="left" id="#Incursion_beta">Talking about personal stuff: </h2>
+<h2 align="left" id="#Incursion_beta">Talking about personal stuff : </h2>
 
 <a href="#Incursion-beta-title">
   <img src="https://github-readme-stats.vercel.app/api?username=Incursion-beta&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Incursion-beta" align="right"/>

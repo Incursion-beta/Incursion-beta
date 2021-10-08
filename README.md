@@ -127,7 +127,7 @@ I'm a final year student pursuing Bachelors's in Computer Science. I'm a passion
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Incursion-beta&theme=juicyfresh)](https://github.com/Incursion-beta/github-profile-trophy)
 
-<h2> 📀 SPOTIFY TRACK I'M LISTENING NOW:  </h2>
+<h2> 📀  SPOTIFY TRACK I'M LISTENING NOW:  </h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lfmp68xfrduww5hagd5vyyivh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=lfmp68xfrduww5hagd5vyyivh&redirect=true)
   

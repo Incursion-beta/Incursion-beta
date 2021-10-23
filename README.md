@@ -17,7 +17,7 @@ I'm a final year student pursuing Bachelors's in Computer Science. I'm a passion
 - 🌱 I’m currently learning - ReactJs and NodeJs.
 - 👨‍💻 All of my projects are available on [Github](https://github.com/Incursion-beta).
 - 👯 I’m looking to collaborate on - projects related to Web development and Machine Learning.
-- 💬 Ask me about - Python, Machine Learning, Deep Learning, JavaScript, SQL, HTML, CSS.
+- 💬 Ask me about - Python, Machine Learning, Deep Learning, JavaScript, SQL, HTML,CSS.
 - 📫 How to reach me: **niteshvamshi123@gmail.com**
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1ENmihlFrqTtGKy6VTzF0otZYpgDcOnfl/view?usp=sharing).
 - 👾 Fun fact : Equal is Not Always Equal in Javascript.

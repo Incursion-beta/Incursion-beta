@@ -1,5 +1,4 @@
 
-<img align="left" width="150" height="170" alt=" B Nitesh Vamshi" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png">
 
 # I am [B Nitesh Vamshi](https://github.com/Incursion-beta)
 

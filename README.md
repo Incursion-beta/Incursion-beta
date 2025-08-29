@@ -1,148 +1,116 @@
+# 👋 Hi, I’m Nitesh Vamshi Bommisetty  
 
+📍 Tampa, FL | 📧 [bn319@usf.edu](mailto:bn319@usf.edu)  
+🔗 [LinkedIn](https://www.linkedin.com/in/b-nitesh-vamshi-87723016b/) • [Portfolio](https://incursion-beta.github.io/) • [GitHub](https://github.com/Incursion-beta)  
 
-# Hi there!, I am [B Nitesh Vamshi](https://github.com/Incursion-beta)
+---
 
-  
-I'm Graduate student pursuing Computer Science. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️, data Science 🤓 and working on Data structures and algorithms.
+## 🚀 About Me  
+I’m a **Graduate Research Assistant at the University of South Florida** and a **Software Developer with 2+ years of industry experience**. My work lies at the intersection of **AI, NLP, and full-stack development**—with a strong focus on **event extraction, LLM fine-tuning, and scalable web applications**.  
 
+- 🔭 Currently researching **Zero-Shot & Few-Shot Event Detection with LLMs** (LoRA/QLoRA, MAVEN, ACE, WikiEvents).  
+- 💡 Experienced in **building peer-to-peer platforms**, **optimizing APIs**, and **designing efficient ML workflows**.  
+- 🌱 Passionate about advancing **long-tail event detection**, **AI-driven analytics**, and **real-world ML applications**.  
+- 🎯 Career goal: Enable computers to robustly **understand and reason with natural language** in real-world settings.  
 
+---
 
-<h2 align="left" id="#Incursion_beta">Talking about personal stuff : </h2>
+## 🧠 Skills  
 
-<a href="#Incursion-beta-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Incursion-beta&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Incursion-beta" align="right"/>
-</a>
+### Languages & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
 
-- 🌱 I’m currently learning - ReactJs and NodeJs.
-- 👨‍💻 All of my projects are available on [Github](https://github.com/Incursion-beta).
-- 👯 I’m looking to collaborate on - projects related to Web development and Machine Learning.
-- 💬 Ask me about - Python, Machine Learning, Deep Learning, JavaScript, SQL, HTML, CSS.
-- 📫 How to reach me: **niteshvamshi123@gmail.com**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1ENmihlFrqTtGKy6VTzF0otZYpgDcOnfl/view?usp=sharing).
-- 👾 Fun fact : Equal is Not Always Equal in Javascript.
+### Frameworks & Libraries  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
 
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
 
+---
 
+## 💼 Experience  
 
-<h2 align="left" id="#Incursion_beta">Favourite Tech:</h2>
+### 🎓 Graduate Research Assistant — *University of South Florida* (Jun 2024 – Present)  
+- Built **500+ unique prompts** for cognitive science research; boosted model performance by **24%**.  
+- Simulated semantic fluency tasks with **transformer models**, achieving **86% accuracy**.  
+- Fine-tuned LLMs with **LoRA/QLoRA**, reducing compute costs while retaining high accuracy.  
 
-> Tools, languages, and other things that I like to work with.
+### 💻 Software Developer — *Newgen Software Technology* (Apr 2021 – May 2023)  
+- Developed **24+ UI components** with React.js → boosted engagement by **40%**.  
+- Designed **35+ REST APIs** handling **50K+ monthly transactions** (<200ms response).  
+- Optimized SQL schemas, reducing latency by **25%**.  
+- Mentored junior developers & led **Scrum sprint meetings** as Scrum Lead.  
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src= "https://user-images.githubusercontent.com/43684497/122926597-a9ee2600-d385-11eb-8b42-d7f67f103358.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src= "https://user-images.githubusercontent.com/43684497/122926698-c5593100-d385-11eb-87a6-f3bd597fbba5.png" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src= "https://user-images.githubusercontent.com/43684497/122926857-e9b50d80-d385-11eb-8ced-a81b461ae4b7.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src= "https://user-images.githubusercontent.com/43684497/122926921-fafe1a00-d385-11eb-9154-4fe99ad09015.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/43684497/122927003-11a47100-d386-11eb-9253-e564e4ad297a.png" width="48" height="48" alt="Node" />
-      </a>
-      <br>Node
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/43684497/122927093-24b74100-d386-11eb-88fe-1c2aaea04c71.png" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src= "https://user-images.githubusercontent.com/43684497/122925739-c0e04880-d384-11eb-9d3d-2eda68e98856.png" width="48" height="48" alt="Pandas"/>
-      </a>
-      <br>Pandas
-    </td>  
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://user-images.githubusercontent.com/43684497/122927223-49131d80-d386-11eb-9459-edf3978c722e.png" width="48" height="48" alt="Matplotlib" />
-      </a>
-      <br>Matplotlib
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/43684497/122927952-000f9900-d387-11eb-9fab-c77bcf4ccd41.png" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/43684497/122928027-161d5980-d387-11eb-8fa2-3d8c1a89d127.png" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/43684497/122925297-54654980-d384-11eb-943a-b387505acd59.png" width="48" height="48" alt="Numpy" />
-      </a>
-      <br>Numpy
-    </td>
-        <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/43684497/122928097-2af9ed00-d387-11eb-8f0e-053334c5bb20.png" width="48" height="48" alt="OpenCV" />
-      </a>
-      <br>OpenCV
-    </td>
-        <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/43684497/122928173-3b11cc80-d387-11eb-9d37-66d76339ef96.png" width="48" height="48" alt="Keras" />
-      </a>
-      <br>Keras
-    </td>
-        <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/43684497/122928252-4e249c80-d387-11eb-8288-d60b2327cb1b.png" width="48" height="48" alt="Tensorflow" />
-      </a>
-      <br>Tensorflow
-    </td>
-  </tr>
-</table>
+---
 
+## 📚 Research & Projects  
 
-<h2 align="left" id="#Incursion_beta">Languages used: </h2>
+### 🔹 Few- & Zero-Shot Event Detection on MAVEN (Aug 2024 – Present)  
+- Fine-tuned quantized **LLaMA-3** with LoRA/QLoRA → **+8% Macro-F1**.  
+- Built pipelines for **168 event types**, reducing labeled data need by **90%**.  
+- Benchmarked across **Gemma-7B, Qwen-2.5, DeepSeek, LLaMA** → LLaMA performed best.  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Incursion-beta&layout=compact&theme=dark)
+### 🔹 AllBets Web Application (Feb 2025 – Present)  
+- Built **P2P betting platform** in React.js + Node.js with secure APIs (JWT auth).  
+- Designed MongoDB schemas → **44% faster queries**.  
+- Integrated **AI-driven bet recommendations**, improving retention by **26%**.  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Incursion-beta&theme=juicyfresh)](https://github.com/Incursion-beta/github-profile-trophy)
+### 🔹 Axis Bank Credit Card Website (2021 – 2023)  
+- Delivered interactive UI components → boosted session time by **38%**.  
+- Built 40+ unit tests and enhanced mobile responsiveness (**+22% mobile traffic**).  
 
-<h2> 📀  SPOTIFY TRACK I'M LISTENING NOW:  </h2>
+---
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lfmp68xfrduww5hagd5vyyivh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=lfmp68xfrduww5hagd5vyyivh&redirect=true)
-  
-## Contact me
-<a href="mailto:niteshvamshi123@gmail.com"><img src="https://img.shields.io/badge/Gmail-855858?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://www.instagram.com/nitesh_vamshi/">
-<img src="https://img.shields.io/badge/Instagram-855858?style=for-the-badge&logo=instagram&logoColor=white">
-</a><a href="https://www.linkedin.com/in/b-nitesh-vamshi-87723016b/"> <img src="https://img.shields.io/badge/LinkedIn-855858?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://twitter.com/Nitesh83438715"> <img src="https://img.shields.io/badge/Twitter-855858?style=for-the-badge&logo=twitter&logoColor=white"></a>
+## 🏆 Achievements  
+- ⭐ **Star Performer Award** at Newgen Software.  
+- 📊 Spearheaded integration of **LLM analysis tools**, improving research efficiency by **25%**.  
+- 👨‍🏫 Mentored developers on React.js and backend APIs.  
 
-### <b>  Thanks for checking out my profile 💑, have a great day. </b><br>
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="52"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, i'd be happy to connect:)</em></br>
+---
 
+## 📄 Publications & Certifications  
+- *Paper*: **Exploring the Use of LLMs for Cross-Contextual Event Detection**  
+- *Paper*: **Lethargy Detection using Deep Learning**  
+- **AWS Certified Machine Learning Engineer – Associate**  
+- Coursera: Machine Learning, Deep Learning, NLP, Neural Networks  
+- Certified Scrum Master  
 
+---
 
+## 📊 GitHub Stats  
 
+![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Incursion-beta&show_icons=true&theme=tokyonight)  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Incursion-beta&layout=compact&theme=tokyonight)  
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Incursion-beta&theme=tokyonight)  
 
+---
 
+## 🏆 GitHub Trophies  
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Incursion-beta&theme=tokyonight&margin-w=10&margin-h=10)  
+
+---
+
+## 👀 Profile Views  
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Incursion-beta&style=for-the-badge&color=blue)  
+
+---
+
+## 📫 Let’s Connect!  
+I’m always open to collaborating on **AI, NLP, and full-stack projects**. Feel free to reach out!  

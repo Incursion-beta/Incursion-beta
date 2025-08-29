@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Nitesh Vamshi Bommisetty  
 
-📍 Tampa, FL | 📧 [bn319@usf.edu](mailto:bn319@usf.edu)  
-🔗 [LinkedIn](https://www.linkedin.com/in/b-nitesh-vamshi-87723016b/) • [Portfolio](https://incursion-beta.github.io/) • [GitHub](https://github.com/Incursion-beta)  
+📍 Tampa, FL | 📧 [bn319@usf.edu](mailto:bn319@usf.edu)  🔗 [LinkedIn](https://www.linkedin.com/in/b-nitesh-vamshi-87723016b/) • [Portfolio](https://incursion-beta.github.io/) • [GitHub](https://github.com/Incursion-beta)  
 
 ---
 
@@ -100,11 +99,6 @@ I’m a **Graduate Research Assistant at the University of South Florida** and a
 
 ---
 
-## 🏆 GitHub Trophies  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Incursion-beta&theme=tokyonight&margin-w=10&margin-h=10)  
-
----
 
 ## 👀 Profile Views  
 

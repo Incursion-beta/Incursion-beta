@@ -3,10 +3,10 @@
 # 👋 Hi, I’m **Nitesh Vamshi Bommisetty** 👨‍💻🚀  
 <sup>(Yes, I debug in my sleep)</sup>
 
-**AI Engineer | NLP & LLM Researcher | Full-Stack ML Systems**
+**Data Scientist | AI Engineer | NLP & LLM Researcher | Full-Stack ML Systems**
 
 📍 Tampa, FL  
-🎓 Graduate Research Assistant · MS Computer Science  
+🎓 Graduate Research Assistant · MS Computer Science @USF 
 💻 Software Engineer (3+ Years)  
 🔬 Research: Event Extraction · LLM Fine-Tuning · Long-Tailed NLP  
 

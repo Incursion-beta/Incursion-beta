@@ -7,7 +7,7 @@
 
 📍 Tampa, FL  
 🎓 Graduate Research Assistant · MS Computer Science @USF 
-💻 Software Engineer (3+ Years)  
+💻 Software Engineer (4+ Years)  
 🔬 Research: Event Extraction · LLM Fine-Tuning · Long-Tailed NLP  
 
 <p align="left">

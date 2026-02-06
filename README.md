@@ -1,6 +1,6 @@
 <!-- 🥚 Easter Egg #0: You found the source. Respect. -->
 
-# 👋 Hi, I’m **Nitesh Vamshi Bommisetty** 👨‍💻🚀  
+# 👋 Hi, I’m **Nitesh Vamshi** 👨‍💻🚀  
 <sup>(Yes, I debug in my sleep)</sup>
 
 **Data Scientist | AI Engineer | NLP & LLM Researcher | Full-Stack ML Systems**
